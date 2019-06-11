@@ -2,7 +2,7 @@
 
 A social drinking app powered by BSV (BitCoin)
 
-Road map:
+Roadmap:
 
 -User can upload their favorite drinks (Name of drink, Ingredients, location and picture) 
 
